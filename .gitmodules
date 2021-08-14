@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/velodyne_simulator"]
+	path = catkin_ws/src/velodyne_simulator
+	url = https://bitbucket.org/DataspeedInc/velodyne_simulator.git
