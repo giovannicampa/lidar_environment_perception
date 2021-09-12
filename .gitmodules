@@ -1,3 +1,6 @@
 [submodule "catkin_ws/src/velodyne_simulator"]
 	path = catkin_ws/src/velodyne_simulator
 	url = https://bitbucket.org/DataspeedInc/velodyne_simulator.git
+[submodule "catkin_ws/src/PointNet-PyTorch"]
+	path = catkin_ws/src/PointNet-PyTorch
+	url = https://github.com/meder411/PointNet-PyTorch.git
